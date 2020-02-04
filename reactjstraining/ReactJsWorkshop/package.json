@@ -23,7 +23,7 @@
   "dependencies": {
     "express": "^4.15.5",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.1"
   },
   "devDependencies": {
     "@types/node": "^8.0.31",
