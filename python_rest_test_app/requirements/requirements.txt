@@ -1,0 +1,2 @@
+-r global_requirements.txt
+-r internal_requirements.txt

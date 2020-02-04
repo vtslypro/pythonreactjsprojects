@@ -1,0 +1,4 @@
+include README.md
+include requirements/requirements.txt
+include requirements/internal_requirements.txt
+include requirements/global_requirements.txt

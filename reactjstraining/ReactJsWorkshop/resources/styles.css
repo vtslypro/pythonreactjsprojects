@@ -1,0 +1,63 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url('fonts/OpenSans-Regular.ttf') format('truetype');
+}
+
+.MainCaption{
+    font-family: "sans-serif";
+    color : cornflowerblue;
+}
+
+.ItemContainer {
+    font-family: "Open Sans";
+    display: flex;
+    box-shadow: 2px 2px 1px #888888;
+    margin-bottom: 6px;
+}
+
+.ItemLeftPanel {
+    background: cornflowerblue;
+}
+
+.ItemLeftPanelSelected {
+    background: #4668a5;
+}
+
+.PackageIcon {
+    margin: 6px;
+}
+
+.ItemRightPanel {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 2;
+    padding: 6px;
+    background: greenyellow;
+}
+
+.PackageCaption {
+    font-size: 1.5em;
+}
+
+.PackageVersion {
+    font-size: 0.5em;
+    padding-left: 6px;
+}
+
+.PackageAuthor {
+    font-size: 0.75em;
+    color: grey;
+}
+
+.PackageDescription {
+    font-size: 0.8em;
+    margin-top: 12px;
+    margin-bottom: 6px;
+}
+
+.DescExpanderText {
+    cursor: pointer;
+    align-self: flex-end;
+    font-size: 0.8em;
+    color: grey;
+}

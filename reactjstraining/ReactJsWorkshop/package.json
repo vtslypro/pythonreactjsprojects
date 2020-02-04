@@ -1,0 +1,36 @@
+{
+  "name": "react-js-workshop",
+  "version": "0.0.1",
+  "description": "Sample project for React.js workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benglin/ReactJsWorkshop.git"
+  },
+  "keywords": [
+    "React.js",
+    "Workshop"
+  ],
+  "author": "Reality Solution Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Benglin/ReactJsWorkshop/issues"
+  },
+  "homepage": "https://github.com/Benglin/ReactJsWorkshop#readme",
+  "dependencies": {
+    "express": "^4.15.5",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.31",
+    "@types/react": "^16.0.7",
+    "@types/react-dom": "^15.5.5",
+    "awesome-typescript-loader": "^3.2.3",
+    "source-map-loader": "^0.2.1",
+    "typescript": "^2.5.3"
+  }
+}

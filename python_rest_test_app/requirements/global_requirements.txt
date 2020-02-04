@@ -1,0 +1,4 @@
+#python-json-logger>=0.1.2
+requests>=2.8.0
+jsonpath_rw>=1.4.0
+pytest>=2.8.2
